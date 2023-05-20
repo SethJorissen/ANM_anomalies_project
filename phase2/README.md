@@ -15,7 +15,7 @@ In phase 2, you need to write a program that can localize the root cause of each
 The Online Judge platform will be open on the first day of phase 2.
 
 - **Website**: http://anm.xz2000.cn
-- **Username** & Password: ANM2, anm865855s
+- **Username** & Password: ANM2, anm865855
 - Submission: The output in `json` format.
 - **Rate Limit**: 5 successful submissions / Group / Day. (If your submission is not in the correct format, it will not count towards your submission count. Refreshed at 00:00 (UTC+8) every day.)
 - **Leaderboard**: MRR (Mean Reciprocal Rank). MRR is calculated by averaging the multiplicative inverse of the rank in each failure case.
